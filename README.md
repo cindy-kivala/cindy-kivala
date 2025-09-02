@@ -39,7 +39,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 ##  Featured Projects
 - **[IndieGames](https://github.com/cindy-kivala/IndieGames)** – IndieGames Hub is a full-stack React application that allows users to browse, search, and favorite free indie games. The frontend is built using React and Vite, while the backend is powered by a custom json-server REST API. The project is deployed using Netlify (frontend) and Render (backend).
-- **[FitnessLoggerApp](https://github.com/cindy-kivala/FitnessLoggerApp)** – A command-line interface (CLI) application for managing users, exercises, and workout sessions. Built with Python and SQLite for data persistence.
+- **[FitnessLoggerApp](https://github.com/cindy-kivala/Fitness-Logger-App)** – A command-line interface (CLI) application for managing users, exercises, and workout sessions. Built with Python and SQLite for data persistence.
 <!--- **[Project 3](https://github.com/yourusername/project3)** – Brief description.-->
 
 <!--- ##  GitHub Stats
