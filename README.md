@@ -61,6 +61,18 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 <hr>
 
+## Activity
+
+![3D Contribution Graph](https://github.com/cindy-kivala/cindy-kivala/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cindy-kivala&theme=react-dark)
+
+## 🏆 Trophies & Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cindy-kivala&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Commits Badge](https://img.shields.io/github/commit-activity/m/cindy-kivala/cindy-kivala)
+
 ---
 
 ###  Connect With Me
