@@ -48,7 +48,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 ## Activity
 
-## 🎇 3D Contribution Graph
+## 🎇 3D Contribution GrapPH
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cindy-kivala&theme=react-dark)
 
