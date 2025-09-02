@@ -34,8 +34,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
 - **[FitnessLoggerApp](https://github.com/cindy-kivala/Fitness-Logger-App)** – A command-line interface (CLI) application for managing users, exercises, and workout sessions. Built with Python and SQLite for data persistence.
 <!--- **[Project 3](https://github.com/yourusername/project3)** – Brief description.-->
 
-<!--- ##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy-kivala&show_icons=true&theme=tokyonight) -->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy-kivala&show_icons=true&theme=tokyonight) -->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy-kivala&layout=compact&theme=tokyonight)-->
 ## ⚡️ Stats
@@ -43,7 +42,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
 <br>
 
 <div align=center>
-  <!--<img width=390 src="https://github-readme-stats.vercel.app/api?username=cindy-kivalai&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Cindy's GitHub Stats" />-->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cindy-kivala&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Cindy's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cindy-kivala&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Cindy's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=cindy-kivala&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Cindy's Most Used Languages" />
 </div>
