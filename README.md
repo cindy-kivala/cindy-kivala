@@ -1,7 +1,7 @@
 ## Hi there, I'm Cindy 👋
 
 
-<img src= "https://media1.tenor.com/m/bFfHogGyz4sAAAAC/totally-spies-totally-spies-reboot.gif" margin-left=4% width=650 height=400>
+<img src= "https://media1.tenor.com/m/iE2aKTzgLlkAAAAC/cinderella-2015-cinderella.gif" margin-left=4% width=650 height=400>
 
 ### 👩‍💻 Full-Stack Software Engineer
 [![Star](https://img.shields.io/badge/⭐-If%20Useful-pink?style=for-the-badge)](https://github.com/cindy-kivala)
@@ -26,10 +26,14 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=cindy-kivala&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Cindy's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=cindy-kivala&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Cindy's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=cindy-kivala&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Cindy's Most Used Languages" />
+<div align="center">
+
+<img width="390" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=cindy-kivala&show_icons=true&theme=transparent&rank_icon=github&count_private=true" />
+
+<img width="390" src="https://streak-stats.demolab.com?user=cindy-kivala&theme=transparent&date_format=j%20M%5B%20Y%5D&fire=EB5454&sideNums=EB5454" />
+
+<img width="325" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=cindy-kivala&layout=donut&hide=css&langs_count=8&theme=transparent" />
+
 </div>
 
 <hr>
