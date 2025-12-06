@@ -1,5 +1,5 @@
 ## Hi there, I'm Cindy 👋
-https://cindykivalaportfolo.netlify.app/
+https://cindykivala.netlify.app/
 
 <img src= "https://media1.tenor.com/m/iE2aKTzgLlkAAAAC/cinderella-2015-cinderella.gif" margin-left=4% width=650 height=400>
 
