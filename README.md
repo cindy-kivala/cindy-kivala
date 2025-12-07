@@ -65,5 +65,5 @@ I design, build, and deploy full-stack applications that solve real-world proble
 ---
 
 ###  Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourlinkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/cindy-kivala-a51274382)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://cindykivala.netlify.app/)
