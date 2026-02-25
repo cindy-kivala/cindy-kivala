@@ -26,7 +26,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="390" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=cindy-kivala&show_icons=true&theme=transparent&rank_icon=github&count_private=true" />
 
@@ -34,9 +34,9 @@ I design, build, and deploy full-stack applications that solve real-world proble
 
 <img width="325" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=cindy-kivala&layout=donut&hide=css&langs_count=8&theme=transparent" />
 
-</div>
+</div> -->
 
-<hr>
+<!-- <hr>
 
 ## 🐍 My Contributions
 
@@ -48,7 +48,7 @@ I design, build, and deploy full-stack applications that solve real-world proble
   </picture>
 </div>
 
-<hr>
+<hr> -->
 
 ## Activity
 
